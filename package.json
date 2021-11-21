@@ -10,5 +10,13 @@
     "comic"
   ],
   "author": "geekaven",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^16.11.9"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-stream-zip": "^1.15.0"
+  }
 }
