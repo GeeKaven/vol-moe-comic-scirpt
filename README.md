@@ -1,4 +1,4 @@
-# vol.moe 转换脚本
+# mox.moe 转换脚本
 
 漫画网站 [mox.moe](http://mox.moe/)原 vol.moe 仅提供 epub 和 kindle 下载，并没有图片压缩包。在部分漫画阅读软件中打开图片会混乱。因此写了一个简单的脚本将下载下来的 epub 文件转换为顺序的 jpg 文件压缩包
 
